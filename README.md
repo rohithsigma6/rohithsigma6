@@ -17,6 +17,10 @@ Hey there!  I'm Rohith Bellamkonda.
 
 - ⚡ Fun fact: Addicted to Code, Coffee, and Chess.😄
 
+![Rohith's github stats](https://github-readme-stats.vercel.app/api?username=rohithsigma6)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsigma6)](https://github.com/rohithsigma6/github-readme-stats)
+
 
 Tech Stack
 
